@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ref docs
+/docs
+
+# bin files to decode
+/data/data_in/*.bin
